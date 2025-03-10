@@ -1,4 +1,6 @@
-# ros2_tutorials
+# ros2_tutorials_uav
+
+Hava araçlarında kullanılmak üzere hazırlanan repo ros2 humble kullanılarak ardupilot, gazebo ortamlarının oluşturulması ve ros2 kullanılarak görüntü aktarılmasını içermektedir.
 
 * [Github commands](github.md)
 
