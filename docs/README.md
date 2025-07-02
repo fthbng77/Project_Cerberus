@@ -1,4 +1,4 @@
-# ros2_tutorials_uav
+# Project Cerberus
 
 Hava araçlarında kullanılmak üzere hazırlanan repo ros2 humble kullanılarak ardupilot, gazebo ortamlarının oluşturulması ve ros2 kullanılarak görüntü aktarılmasını içermektedir.
 
